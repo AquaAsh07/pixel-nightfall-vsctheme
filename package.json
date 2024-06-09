@@ -3,6 +3,8 @@
   "displayName": "Pixel Nightfall",
   "description": "",
   "version": "0.0.1",
+  "publisher": "AquaAsh",
+  "icon": "Icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },
